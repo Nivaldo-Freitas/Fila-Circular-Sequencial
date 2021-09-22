@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1632330725 source:c:\users\neto\documents\projetos codeblocks\nova pasta\fila circular com alocação sequencial\main.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+
